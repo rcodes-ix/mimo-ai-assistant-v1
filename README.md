@@ -70,19 +70,25 @@ Before running this project, install:
 ```text
 Phi-3 Mini
 TinyLlama
+Llama 3.2 1B
 ```
 
 #### Mid-Range PCs
 
 ```text
 Phi-3
+Llama 3.2 3B
+Gemma 3 4B
 ```
 
 #### High-End PCs
 
 ```text
-Llama 3.2
-Other larger Ollama-supported models
+Llama 3.3 70B
+Qwen3 32B
+Qwen3 72B
+Gemma 3 27B
+DeepSeek-R1 Distill 32B+
 ```
 
 ## Installation
