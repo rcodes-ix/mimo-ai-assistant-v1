@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/3e880124-d2b8-4e83-a43d-b74807073d7a
+
 # Mimo V1
 <img width="600" height="500" alt="Screenshot 2026-06-02 183742" src="https://github.com/user-attachments/assets/2ec5f7f7-e313-439d-a46f-e7f27db4b434" />
 
