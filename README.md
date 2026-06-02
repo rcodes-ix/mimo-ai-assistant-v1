@@ -176,4 +176,4 @@ This project represents the first version of Mimo and my first hands-on explorat
 ## Video
 
 
-🎥 Full Demo Video: [Watch Here](./Mimo%20Demo%20V1.mp4)
+🎥 Full Demo Video: [Watch Here](./Mimo%20V1%20Demo.mp4)
