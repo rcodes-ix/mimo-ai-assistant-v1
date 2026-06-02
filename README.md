@@ -178,5 +178,6 @@ This project represents the first version of Mimo and my first hands-on explorat
 ## Video
 
 🎬 Watch Demo
+
 https://github.com/user-attachments/assets/3e880124-d2b8-4e83-a43d-b74807073d7a
 
