@@ -176,5 +176,4 @@ This project represents the first version of Mimo and my first hands-on explorat
 
 ## Video
 
-
 ![Mimo Demo](./main/Mimo%20V1%20Demo.gif)
