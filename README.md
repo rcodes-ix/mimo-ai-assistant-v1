@@ -1,5 +1,6 @@
-
 # Mimo V1
+<img width="600" height="500" alt="Screenshot 2026-06-02 183742" src="https://github.com/user-attachments/assets/2ec5f7f7-e313-439d-a46f-e7f27db4b434" />
+
 
 Mimo V1 is my first attempt at building an AI-powered content creation assistant.
 
@@ -175,4 +176,4 @@ Version 1 was primarily built to explore:
 This project represents the first version of Mimo and my first hands-on exploration of local LLM development, model customization, and AI application building.
 
 ## Video
-![Mimo Demo](src/assets/Mimo%20V1%20Demo.gif)
+![Mimo V1 Demo](https://github.com/rcodes-ix/mimo-ai-assistant-v1/blob/main/src/assets/mimo-v1-demo.mp4?raw=true)
