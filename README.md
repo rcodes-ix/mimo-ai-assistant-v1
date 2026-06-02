@@ -176,4 +176,8 @@ Version 1 was primarily built to explore:
 This project represents the first version of Mimo and my first hands-on exploration of local LLM development, model customization, and AI application building.
 
 ## Video
-![Mimo V1 Demo](https://github.com/rcodes-ix/mimo-ai-assistant-v1/blob/main/src/assets/mimo-v1-demo.mp4?raw=true)
+
+🎬 Watch Demo
+
+https://github.com/user-attachments/assets/3e880124-d2b8-4e83-a43d-b74807073d7a
+
