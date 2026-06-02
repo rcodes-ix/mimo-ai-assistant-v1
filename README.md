@@ -173,7 +173,7 @@ Version 1 was primarily built to explore:
 
 This project represents the first version of Mimo and my first hands-on exploration of local LLM development, model customization, and AI application building.
 
-## Demo Video
+## Video
 
 
-🎥 Mimo Demo Video: [Watch Here](./Mimo Demo V1.mp4)
+🎥 Full Demo Video: [Watch Here](./Mimo%20Demo%20V1.mp4)
