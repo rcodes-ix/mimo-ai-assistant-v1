@@ -1,5 +1,11 @@
+<img width="885" height="725" alt="Screenshot 2026-06-02 183742" src="https://github.com/user-attachments/assets/47bb077e-1c9c-4365-8344-25b7807fc1c2" />
+
+
+
 
 # Mimo V1
+<img width="885" height="725" alt="Screenshot 2026-06-02 183742" src="https://github.com/user-attachments/assets/2ec5f7f7-e313-439d-a46f-e7f27db4b434" />
+
 
 Mimo V1 is my first attempt at building an AI-powered content creation assistant.
 
