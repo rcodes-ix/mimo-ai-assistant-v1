@@ -177,7 +177,5 @@ This project represents the first version of Mimo and my first hands-on explorat
 
 ## Video
 
-<video controls width="600">
-  <source src="assets/mimo-v1-demo.mp4" type="video/mp4">
-</video>
+![Watch Demo](https://github.com/user-attachments/assets/220b4d3e-8150-42e3-998a-07ab410cc563)
 
