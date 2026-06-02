@@ -1,3 +1,4 @@
+
 # Mimo V1
 
 Mimo V1 is my first attempt at building an AI-powered content creation assistant.
@@ -175,5 +176,4 @@ This project represents the first version of Mimo and my first hands-on explorat
 
 ## Video
 
-
-🎥 Full Demo Video: [Watch Here](./main/Mimo%20V1%20Demo.mp4)
+![Mimo Demo](./main/Mimo%20V1%20Demo.gif)
